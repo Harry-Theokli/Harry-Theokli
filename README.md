@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I'm Your Name Here!</h1>
+<h1>Hi, I'm Harry!</h1>
 <h3>Full-Stack Developer &nbsp;•&nbsp; Front-End Developer &nbsp;•&nbsp; Back-End Developer &nbsp;•&nbsp; Cloud Developer</h3>
 <p>
 Building web applications from front to back — HTML, CSS, JavaScript, React, Python, SQL, and Cloud.
@@ -25,18 +25,20 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
   <tr>
     <td width="65%">
     <p>I am an aspiring <strong>Full-Stack Developer</strong> with a passion for building clean, performant, and user-friendly web applications that solve real-world problems.</p>
-    <h3>My primary interests include:</h3>
+    <h3>What I bring to the table:</h3>
     <ul>
-      <li>Front-End Development (HTML, CSS, JavaScript, React.js)</li>
-      <li>Back-End Development (Python, SQL, Node.js)</li>
-      <li>Cloud Computing (AWS, Microsoft Azure)</li>
+      <li>Front-End Development skills (HTML, CSS, JavaScript, React.js)</li>
+      <li>Back-End Development skills (Python, SQL, Node.js)</li>
+      <li>Cloud Computing proficiency (AWS, Microsoft Azure)</li>
       <li>Version Control (Git & GitHub)</li>
       <li>Responsive & Accessible Web Design</li>
-      <li>Database Design & Management</li>
-      <li>Full-Stack Application Architecture</li>
       <li>DevOps & Deployment</li>
+      <li>A hard, honest work ethic</li>
+      <li>Great people skills</li>
+      <li>Exceptional teamwork</li>
+      <li>Plenty of experience in high pressure situations</li>
     </ul>
-    <p>I enjoy turning ideas into working applications while continuously building my skills through real projects.</p>
+    <p>I enjoy finding efficient solutions to real world problems</p>
     </td>
     <td width="35%" align="center">
       <!-- Replace with your profile picture URL (e.g. from LinkedIn) -->
