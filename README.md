@@ -4,19 +4,19 @@
 <p>
 Building web applications from front to back — HTML, CSS, JavaScript, React, Python, SQL, and Cloud.
 </p>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Cloud+Developer;BCS+Coding+Diploma+Student" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Front-End+Developer;Back-End+Developer;Cloud+Developer;" alt="Typing animation" />
 </div>
 <div align="center">
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="YourLinkedInProfileHere">
+<a href="https://www.linkedin.com/in/harry-theokli-119a66352/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:YourEmailHere">
+<a href="mailto:htheokli@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="YourGitHubProfileHere">
+<a href="https://github.com/Harry-Theokli">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 </div>
@@ -42,7 +42,7 @@ Building web applications from front to back — HTML, CSS, JavaScript, React, P
     </td>
     <td width="35%" align="center">
       <!-- Replace with your profile picture URL (e.g. from LinkedIn) -->
-      <img src="Image Address Here" alt="Profile photo" width="200" style="border-radius: 50%;"/>
+      <img src="LinkedInProfile.jpg" alt="Profile photo" width="200" style="border-radius: 50%;"/>
     </td>
   </tr>
 </table>
